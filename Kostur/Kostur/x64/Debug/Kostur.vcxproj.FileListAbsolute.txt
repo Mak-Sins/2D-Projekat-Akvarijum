@@ -1,0 +1,2 @@
+C:\Users\Vuk\Documents\Vasa\Grafika\RG_V4\Kostur\x64\Debug\glew32.dll
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\x64\Debug\glew32.dll

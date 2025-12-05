@@ -1,0 +1,19 @@
+﻿  Main.cpp
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(196,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(197,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(279,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(281,37): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(283,37): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(287,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(292,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(294,38): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(296,38): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(300,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(343,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(362,31): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(427,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(428,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(491,40): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(492,67): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\Source\Main.cpp(558,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Kostur.vcxproj -> C:\Users\krasm\OneDrive\Desktop\faks\7. semestar\racunarska grafika\2d projekat\RG_Kostur\Kostur\x64\Debug\Kostur.exe
